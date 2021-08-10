@@ -1,0 +1,91 @@
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\bin\Debug\BE.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\bin\Debug\BE.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\bin\Debug\BE.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\bin\Debug\Abstraccion.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\bin\Debug\Abstraccion.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\bin\Debug\Abstraccion.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\obj\Debug\BE.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\BE\obj\Debug\BE.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\bin\Debug\BE.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\bin\Debug\Abstraccion.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\bin\Debug\Abstraccion.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\bin\Debug\Abstraccion.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\obj\Debug\BE.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\BE\obj\Debug\BE.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\BE.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\BE.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\BE.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Abstraccion.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Abstraccion.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Abstraccion.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\obj\Debug\BE.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\obj\Debug\BE.csproj.CopyComplete
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\obj\Debug\BE.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\obj\Debug\BE.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\EnvDTE.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\stdole.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\BE\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll

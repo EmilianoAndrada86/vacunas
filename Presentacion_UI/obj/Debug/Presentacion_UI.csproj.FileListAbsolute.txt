@@ -1,0 +1,155 @@
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.MenuInicial.resources
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.AtencionPaciente.resources
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.fIngresoPaciente.resources
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.fVacunas.resources
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\BE.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Negocio.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Abstraccion.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\MPP.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\DALI.dll
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\BE.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\BE.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Negocio.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Negocio.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Abstraccion.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\Abstraccion.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\MPP.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\MPP.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\DALI.pdb
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\bin\Debug\DALI.dll.config
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+C:\Users\Emili\source\repos\TP1_EmilianoAndrada\Presentacion_UI\obj\Debug\Presentacion_UI.fConsultas.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\BE.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Negocio.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Abstraccion.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\MPP.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\DALI.dll
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\BE.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\BE.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Negocio.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Abstraccion.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\Abstraccion.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\MPP.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\MPP.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\DALI.pdb
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\bin\Debug\DALI.dll.config
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.AtencionPaciente.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.fConsultas.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.fIngresoPaciente.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.fVacunas.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.MenuInicial.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+C:\Users\Usuario\Desktop\TP2 LUG\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Presentacion_UI.exe.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Presentacion_UI.exe
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Presentacion_UI.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\BE.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Negocio.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Abstraccion.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\MPP.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\DALI.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\BE.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\BE.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Negocio.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Negocio.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Abstraccion.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Abstraccion.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\MPP.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\MPP.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\DALI.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\DALI.dll.config
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.AtencionPaciente.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.fConsultas.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.fIngresoPaciente.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.fVacunas.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.Menu.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.MenuInicial.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.Properties.Resources.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.GenerateResource.cache
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.csproj.CopyComplete
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.exe
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.pdb
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.XML.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\Presentacion_UI.LimpiarTextBox.resources
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\EnvDTE.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\stdole.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\RdlCompile.cache
+C:\Users\Emili\Desktop\LUG Actualizado\Solucion\Presentacion_UI\obj\Debug\RdlCompile.compiled

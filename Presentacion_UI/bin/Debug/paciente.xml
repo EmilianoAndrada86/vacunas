@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Pacientes>
+  <Paciente>
+    <Nombre>Emiliano</Nombre>
+    <Apellido>Andrada</Apellido>
+    <DNI>32488505</DNI>
+    <Fecha_Nacimiento>26/06/1986</Fecha_Nacimiento>
+    <Direccion>Rodriguez Peña 1225</Direccion>
+  </Paciente>
+  <Paciente>
+    <Nombre>Camila</Nombre>
+    <Apellido>Dacsota</Apellido>
+    <DNI>12345678</DNI>
+    <Fecha_Nacimiento>10/07/1956</Fecha_Nacimiento>
+    <Direccion>Calle Falsa 123</Direccion>
+  </Paciente>
+  <Paciente>
+    <Nombre>Raul</Nombre>
+    <Apellido>Battistella</Apellido>
+    <DNI>32123456</DNI>
+    <Fecha_Nacimiento>03/02/1986</Fecha_Nacimiento>
+    <Direccion>Los Patitos 123</Direccion>
+  </Paciente>
+  <Paciente>
+    <Nombre>Emiliano</Nombre>
+    <Apellido>Lopex</Apellido>
+    <DNI>12345678</DNI>
+    <Fecha_Nacimiento>01/07/2021</Fecha_Nacimiento>
+    <Direccion>asdasdas</Direccion>
+  </Paciente>
+</Pacientes>
